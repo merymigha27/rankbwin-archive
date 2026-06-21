@@ -1,2 +1,14 @@
 # rankbwin-archive
-HTML page archive and documentation
+
+静态文件发布目录
+
+本仓库用于发布静态页面，后续文件会根据任务继续追加。
+
+## 文件归档
+
+- HTML 页面用于访问展示
+- README 用于说明归档用途
+
+## 公开访问
+
+公开访问状态取决于仓库权限、Pages 配置和 GitHub 同步状态。
